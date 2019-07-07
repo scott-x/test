@@ -7,7 +7,7 @@
 package test
 
 import (
-	"stings"
+	"strings"
 )
 
 func Upper(s string) string {
